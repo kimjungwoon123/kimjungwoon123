@@ -1,4 +1,6 @@
 ### Hi there 👋
+I like to make what I need myself.
+Everything is still not good, but I will work hard with a spirit of challenge.
 
 <!--
 **kimjungwoon123/kimjungwoon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
