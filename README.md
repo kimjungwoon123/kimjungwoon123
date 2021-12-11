@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tecmouse)](https://www.facebook.com/tecmouse)
 	
 	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tecmouse11@gmail.com)](mailto:snugyun01@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tecmouse11@gmail.com)](mailto:tecmouse11@gmail.com)
 
   <div align=center>
 	
