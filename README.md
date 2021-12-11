@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/-IOS-yellowgreen"/><img src="https://img.shields.io/badge/-Windows-lightgrey"/><img src="https://img.shields.io/badge/-Linux-yellow"/>
 
 <img src="https://img.shields.io/badge/-ebook-yellowgreen"/>
+### Blog & SNS 👋
 
     [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kimjungwoon123.github.io/)](https://kimjungwoon123.github.io/)
 	
