@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### SKii  👋
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-ebook-yellowgreen"/>
 
     [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kimjungwoon123.github.io/)](https://kimjungwoon123.github.io/)
 	
